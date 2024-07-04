@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://viperkeshan619:j83qqpkKQF9vpYeX@book-store.894kkyb.mongodb.net/books-collection?retryWrites=true&w=majority&appName=Book-store', {
+mongoose.connect('    Add your databse    ', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 }).then(() => {
