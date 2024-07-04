@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 // Connect to MongoDB
-mongoose.connect('    Add your databse    ', {
+mongoose.connect('  Add your Database   ', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 }).then(() => {
