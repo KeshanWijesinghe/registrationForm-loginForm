@@ -1,8 +1,38 @@
-# React + Vite
+# Responsive Registration Form And Login Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a MERN stack application with user registration and login built with vite and Tailwind CSS.
 
-Currently, two official plugins are available:
+### Features
+ + **User Registration :** Users can register by providing their details.
+ + **User Login :** Registered users can log in with their credentials.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Technologies Used
+ + **Frontend :** React + vite, Tailwind CSS
+ + **Backend :** Express.js
+ + **Database :** MongoDB
+
+### Installation
+ 1. **Download the code.**
+ 2. **Install dependencies :**
+    + For the frontend :
+    ```
+    npm install or npm i
+    ```
+    + For the backend :
+    ```
+    cd backend
+    npm install or npm i
+    ```
+ 3. **Run the application :**
+    + Start the backend server :
+    ```
+    cd backend
+    npm start
+    ```
+    + Start the fronted development server :
+    ```
+    npm run dev
+    ```
+
+> [!NOTE]
+> Use your database url in the server.js.
