@@ -1,6 +1,6 @@
 # Responsive Registration Form And Login Form
 
-This repository contains a MERN stack application with user registration and login built with vite and Tailwind CSS.
+This repository contains a MERN stack application with user registration and login built with vite and Tailwind CSS.:people_hugging:
 
 ### Features
  + **User Registration :** Users can register by providing their details.
